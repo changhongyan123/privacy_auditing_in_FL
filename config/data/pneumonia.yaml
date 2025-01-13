@@ -1,0 +1,7 @@
+dataset: "pneumonia"
+train_num: 300
+test_num: 300
+pop_num: 100
+train_ratio: 0.4
+test_ratio: 0.4
+pop_ratio: 0.2

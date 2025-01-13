@@ -1,0 +1,8 @@
+dataset: "kidney"
+train_num: 600
+test_num: 600
+pop_num: 100
+
+train_ratio: 0.3
+test_ratio: 0.3
+pop_ratio: 0.4

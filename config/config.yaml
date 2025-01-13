@@ -1,0 +1,12 @@
+defaults:
+- data: cifar10  
+- fl: fedavg
+- audit: black_box
+
+
+num_gpus: 2
+server_dir_path: "results"
+random_seed: 0
+template_file_name: "config/config_mpi_template.yaml"
+save_models: True
+save_client: "all"

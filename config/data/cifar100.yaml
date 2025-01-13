@@ -1,0 +1,8 @@
+dataset: "cifar100"
+train_num: 2500
+test_num: 2500
+pop_num: 1000
+
+train_ratio: 0.3
+test_ratio: 0.3
+pop_ratio: 0.4
