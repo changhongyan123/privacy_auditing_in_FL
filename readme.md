@@ -20,6 +20,15 @@ The repository includes the following key scripts:
 
 ---
 
+
+## 🚀 Requirements
+
+Before running the code, ensure you have the following dependencies installed:
+```
+conda env create -f environment.yml
+```
+
+
 ## 🖥️ Running the Code
 
 To run the complete process (data preparation, federated learning, and privacy auditing), execute the provided bash script (which trains resnet56 model on CIFAR-10).
@@ -28,13 +37,6 @@ To run the complete process (data preparation, federated learning, and privacy a
 bash run.sh
 ```
 For different models and dataset combinations, please refer to the Table 1 in the paper.
-
-## 🚀 Requirements
-
-Before running the code, ensure you have the following dependencies installed:
-```
-pip install -r requirements.txt
-```
 
 ## 🔍 How to Cite
 
