@@ -1,6 +1,6 @@
 # Efficient Privacy Auditing in Federated Learning (USENIX Security 2024)
 
-This repository contains the official code for the paper **"Efficient Privacy Auditing in Federated Learning"**, published at the **33rd USENIX Security Symposium (USENIX Security 2024)**. The code consists of two main parts:
+This repository contains the official code for the paper [**"Efficient Privacy Auditing in Federated Learning"**](https://www.usenix.org/conference/usenixsecurity24/presentation/chang), published at the **33rd USENIX Security Symposium (USENIX Security 2024)**. The code consists of two main parts:
 1. **Run Federated Learning (FL) tasks**  
 2. **Audit the privacy risks of the trained FL models**
 
@@ -55,5 +55,4 @@ month = aug
 ```
 
 ## 📬 Contact
-For questions or feedback, feel free to reach out to the authors via email or open an issue in this repository.
-
+For questions or feedback, feel free to reach out to the Hongyan Chang via email.
